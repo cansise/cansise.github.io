@@ -1,0 +1,93 @@
+h1 {
+    font-family: kon-tiki-aloha-jf, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 200px;
+    margin: 0;
+}
+
+h2 {
+    font-family: kon-tiki-aloha-jf, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    margin: 0;
+}
+
+h3 {
+    font-family: kon-tiki-aloha-jf, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    margin: 0;
+}
+
+p {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.font-size-200 {
+    font-size: 200px;
+}
+
+
+/*/indispensable/*/
+
+.d-flex {
+    display: flex;
+}
+
+.text-aling {
+    text-align: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.margin-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+/*/HEADER/*/
+
+header {
+    position: relative;
+}
+
+#absolute {
+    position: absolute;
+    background-color: #D9EC8F;
+    width: 65%;
+    height: 140%;
+    border-radius: 50%;
+    top: -150px;
+    left: -150px;
+    text-align: left;
+    z-index: -1;
+}
+
+/*/section 1/*/
+
+.projet-buble {
+    width: 80%;
+}
+
+.width-45 {
+    width: 45%;
+}
+
+
+/*/ footer /*/
+
+.text-end {
+    text-align: end;
+}

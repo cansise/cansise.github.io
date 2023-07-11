@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 563.32 563.32">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        fill: lime;
+      }
+
+      .cls-6 {
+        fill: blue;
+      }
+
+      .cls-7 {
+        fill: #ff0;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #ff007f;
+      }
+
+      .cls-10 {
+        font-size: 64.08px;
+      }
+
+      .cls-10, .cls-9, .cls-11 {
+        font-family: FormaDJRBanner-Black, 'Forma DJR Banner';
+        font-weight: 800;
+      }
+
+      .cls-10, .cls-11, .cls-12 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        font-size: 42.42px;
+      }
+
+      .cls-11 {
+        font-size: 63.59px;
+      }
+
+      .cls-12 {
+        font-family: FormaDJRBanner-Bold, 'Forma DJR Banner';
+        font-size: 29.41px;
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="0" y="0" width="563.32" height="563.32" rx="281.66" ry="281.66"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <g>
+      <g>
+        <path class="cls-7" d="m414.15,370.25l-77.61,84.84,108.5-27.21,48.39,48.66,8-59.83c52.53-12.34,54.05-11.45,52.53-12.34-3.02-1.76-47.93-24.13-47.93-24.13l48.41-57.37-81.18,18.45,3.78-58.36-39.63,39.89-64.59-17.29,41.32,64.7Z"/>
+        <polygon class="cls-8" points="333.87 213.11 248.05 208.75 283.09 287.22 213.24 237.15 200.3 322.1 168.61 242.22 111.79 306.69 128.32 222.36 45.66 245.87 105.17 183.87 22.92 158.96 106.5 138.97 50.77 73.55 131.89 101.91 120.38 16.75 173.29 84.47 209.65 6.6 217.54 92.18 290.23 46.33 250.6 122.59 336.54 123.31 261.98 166.04 333.87 213.11"/>
+        <polygon class="cls-5" points="436.89 82.75 506.32 54.99 522.52 173.74 463.93 207.26 426.9 169.53 375.21 133.4 390.88 66.73 436.89 82.75"/>
+        <text class="cls-9" transform="translate(429.11 398.93)"><tspan class="cls-14" x="0" y="0">7</tspan><tspan class="cls-13" x="21.97" y="0">%</tspan></text>
+        <text class="cls-10" transform="translate(136.64 194.37)"><tspan x="0" y="0">9%</tspan></text>
+        <text class="cls-11" transform="translate(407.28 155.48)"><tspan x="0" y="0">5%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-8" x="86.29" y="380.52" width="224.01" height="60.1" rx="30.05" ry="30.05"/>
+        <polygon class="cls-6" points="125.47 394.92 108.53 396.56 117.68 410.91 102.54 403.14 102.47 420.15 93.95 405.43 84.69 419.7 85.48 402.71 69.97 409.71 79.83 395.84 62.99 393.35 78.78 387.01 65.97 375.81 82.68 379.01 77.95 362.66 90.28 374.39 95.14 358.08 99.17 374.62 112.08 363.52 106.53 379.61 123.38 377.26 110.02 387.79 125.47 394.92"/>
+        <text class="cls-12" transform="translate(121.35 421.36)"><tspan x="0" y="0">En sa</tspan><tspan class="cls-4" x="67.25" y="0">v</tspan><tspan x="81.37" y="0">oi</tspan><tspan class="cls-3" x="102.95" y="0">r</tspan><tspan x="113.48" y="0" xml:space="preserve"> plus</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
