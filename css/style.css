@@ -57,9 +57,17 @@ p {
     justify-content: space-between;
 }
 
+.margin-R-30 {
+    margin-right: 150px;
+}
+
+.margin-L-110 {
+    margin-left: 110px;
+}
+
 /*/HEADER/*/
 
-header {
+.relative {
     position: relative;
 }
 
@@ -69,8 +77,32 @@ header {
     width: 65%;
     height: 140%;
     border-radius: 50%;
-    top: -150px;
+    top: -200px;
     left: -150px;
+    text-align: left;
+    z-index: -1;
+}
+
+#absolute-bleu {
+    position: absolute;
+    background-color: #8FECE9;
+    width: 65%;
+    height: 140%;
+    border-radius: 50%;
+    top: -50px;
+    left: -350px;
+    text-align: left;
+    z-index: -1;
+}
+
+#absolute-vert {
+    position: absolute;
+    background-color: #8FECBB;
+    width: 60%;
+    height: 150%;
+    border-radius: 50%;
+    top: -10px;
+    left: -200px;
     text-align: left;
     z-index: -1;
 }
@@ -91,3 +123,50 @@ header {
 .text-end {
     text-align: end;
 }
+
+
+/*/Menu/*/
+.container {
+    position: relative;
+    position: fixed;
+  }
+  
+  .rectangle {
+    right: 50%;
+    border-radius: 50px;
+    transform: translate(700%, -100%);
+    width: 200px;
+    height: 500px;
+    background-color: #FFD7D8;
+  }
+  
+  .circle-3 {
+    position: absolute;
+    top: -10%;
+    left: 50%;
+    transform: translate(1575%, -100%);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color:  #8FECBB;
+  }
+  .circle-2 {
+    position: absolute;
+    top: -40%;
+    left: 50%;
+    transform: translate(1575%, -100%);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #8fece9;
+  }
+  .circle {
+    position: absolute;
+    top: -70%;
+    left: 50%;
+    transform: translate(1575%, -100%);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #D9EC8F;
+  }
